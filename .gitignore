@@ -1,0 +1,4 @@
+.vscode
+MNUM_proj/*
+!MNUM_proj/*.cpp
+!MNUM_proj/*.h
